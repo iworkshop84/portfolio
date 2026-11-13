@@ -1,4 +1,3 @@
-# сирі 1200px-скриншоти з Fiverr, у репозиторій не йдуть
+# сирі скриншоти з Fiverr (1200px і робочі 1000px) — у репозиторій не йдуть
 shots/*.jpg
-shots/web/b2b-easysel.jpg
-shots/web/logistics.jpg
+shots/web/*.jpg
